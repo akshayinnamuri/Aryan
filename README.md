@@ -1,2 +1,3 @@
 # Aryan
-[https://your-username.github.io/happy-birthday/](https://github.com/akshayinnamuri/Aryan)
+https://github.com/akshayinnamuri/Aryan/index.html
+
